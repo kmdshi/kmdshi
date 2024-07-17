@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=flutter" />
   <img src="https://skillicons.dev/icons?i=dart" />
   <img src="https://skillicons.dev/icons?i=kotlin" />
   <img src="https://skillicons.dev/icons?i=swift" />
+  <img src="https://skillicons.dev/icons?i=golang" />
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
