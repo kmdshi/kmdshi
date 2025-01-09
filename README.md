@@ -17,7 +17,7 @@
 ### 📊 Stats:
 
 <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whois-kami&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmdshi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="display: inline-block; margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=kmdshi&count_private=true&theme=dark&show_icons=true" style="display: inline-block;" />
 </p>
 
