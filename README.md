@@ -11,7 +11,6 @@
 - **Homepage**: [kmdshi.dev](https://kmdshi.dev)
 - **Telegram**: [@kmdshi](https://t.me/kmdshi)
 - **GitHub**:  [github.com/kmdshi](github.com/kmdshi)
-- **Telegram**: [@whois-kami](https://t.me/whois-kami)
 - **CodersRank**: [profile.codersrank.io/user/kmdshi](https://profile.codersrank.io/user/kmdshi)
 
 
