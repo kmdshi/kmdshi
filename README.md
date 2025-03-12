@@ -12,7 +12,7 @@
 - **Telegram**: [@kmdshi](https://t.me/kmdshi)
 - **GitHub**:  [github.com/kmdshi](github.com/kmdshi)
 - **CodersRank**: [profile.codersrank.io/user/kmdshi](https://profile.codersrank.io/user/kmdshi)
-
+- **E-mail**: [kmdshi@hotmail.com](mailto:kmdshi@hotmail.com)
 
 ### 📊 Stats:
 
