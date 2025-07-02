@@ -12,7 +12,7 @@
 - **Telegram**: [@kmdshi](https://t.me/kmdshi)
 - **GitHub**:  [github.com/kmdshi](github.com/kmdshi)
 - **CodersRank**: [profile.codersrank.io/user/kmdshi](https://profile.codersrank.io/user/kmdshi)
-- **LeetCode**: [https://leetcode.com/u/kmdshi/](https://leetcode.com/u/kmdshi/)
+- **LeetCode**: [https://leetcode.com/u/kmdshi/](leetcode.com/u/kmdshi/)
 - **E-mail**: [kmdshi@hotmail.com](mailto:kmdshi@hotmail.com)
 
 ### 📊 Stats:
