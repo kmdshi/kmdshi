@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm kmdshi</h1>
 
 <p align="center">
-  <b>Dart/Flutter Developer | Lover of the unknown | IoT Enjoyer</b>
+  <b>iOS Developer with Flutter background | Lover of the unknown | IoT Enjoyer</b>
 </p>
 
 ---
