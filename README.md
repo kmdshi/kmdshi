@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm kmdshi</h1>
 
 <p align="center">
-  <b>I turn ideas into code, I also posing on</b> 
+  <b>I turn ideas into code, I also posting on</b> 
   <a href="https://www.youtube.com/@kmdshi">YouTube</a>
 </p>
 
