@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hello, I'm kmdshi</h1>
 
 <p align="center">
-  <b>iOS Developer with Flutter background | Lover of the unknown | IoT Enjoyer</b>
+  <b>I turn ideas into code, I also posing on</b> 
+  <a href="https://www.youtube.com/@kmdshi">YouTube</a>
 </p>
 
 ---
