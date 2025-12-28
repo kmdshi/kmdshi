@@ -8,8 +8,6 @@
 ---
 
 ### ☎️ Contacts:
-[![](https://github.com/user-attachments/assets/e601776b-bbe6-49ec-9451-3691c8c00bfe)](https://kmdshi.dev) 
-- **Homepage**: [kmdshi.dev](https://kmdshi.dev)
 - **Telegram**: [@kmdshi](https://t.me/kmdshi)
 - **GitHub**:  [github.com/kmdshi](github.com/kmdshi)
 - **CodersRank**: [profile.codersrank.io/user/kmdshi](https://profile.codersrank.io/user/kmdshi)
