@@ -1,14 +1,6 @@
 <h1 align="center">👋 Hello, I'm kmdshi</h1>
 
-<p align="center">
-  <b>I turn ideas into code, I also posting on</b> 
-  <a href="https://www.youtube.com/@kmdshi">YouTube</a>
-</p>
-
----
-
 ### ☎️ Contacts:
-- **Telegram**: [@kmdshi](https://t.me/kmdshi)
 - **GitHub**:  [github.com/kmdshi](github.com/kmdshi)
 - **CodersRank**: [profile.codersrank.io/user/kmdshi](https://profile.codersrank.io/user/kmdshi)
 - **LeetCode**: [leetcode.com/u/kmdshi/](https://leetcode.com/u/kmdshi)
