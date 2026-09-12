@@ -4,7 +4,7 @@
 - **GitHub**:  [github.com/kmdshi](github.com/kmdshi)
 - **CodersRank**: [profile.codersrank.io/user/kmdshi](https://profile.codersrank.io/user/kmdshi)
 - **LeetCode**: [leetcode.com/u/kmdshi/](https://leetcode.com/u/kmdshi)
-- **E-mail**: [kmdshi@hotmail.com](mailto:kmdshi@hotmail.com)
+- **LinkedIn**: [linkedin.com/in/kmdshi](https://www.linkedin.com/in/kmdshi)
 
 ### 📊 Stats:
 
