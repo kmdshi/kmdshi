@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm kmdshi</h1>
+<h1 align="center">👋 Hello, I'm kmdshi <sub>also known in some circles as "Bo"</sub></h1>
 
 ### ☎️ Contacts:
 - **GitHub**:  [github.com/kmdshi](github.com/kmdshi)
