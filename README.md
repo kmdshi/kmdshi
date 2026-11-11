@@ -8,8 +8,13 @@
 
 
 
+<div align="center">
+
 ### ☎️ Contacts:
-- **GitHub**:  [github.com/kmdshi](github.com/kmdshi)
-- **CodersRank**: [profile.codersrank.io/user/kmdshi](https://profile.codersrank.io/user/kmdshi)
-- **LeetCode**: [leetcode.com/u/kmdshi/](https://leetcode.com/u/kmdshi)
-- **LinkedIn**: [linkedin.com/in/kmdshi](https://www.linkedin.com/in/kmdshi)
+
+**GitHub**: [github.com/kmdshi](https://github.com)<br>
+**CodersRank**: [profile.codersrank.io/user/kmdshi](https://profile.codersrank.io/user/kmdshi)<br>
+**LeetCode**: [leetcode.com/u/kmdshi/](https://leetcode.com/u/kmdshi)<br>
+**LinkedIn(Currently unavailable)**: [linkedin.com/in/kmdshi](https://www.linkedin.com/in/kmdshi)
+
+</div>
